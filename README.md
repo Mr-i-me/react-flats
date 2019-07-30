@@ -1,6 +1,6 @@
-# react-boilerplate
+# react-airbnb_flats
 
-Simple react starter with the following config:
+Simple react starter application with the following config:
 
 - React, ReactDOM
 - Webpack 4
